@@ -18,3 +18,11 @@ html, body, #app{
 .el-pagination {
     margin-top: 15px;
 }
+
+.el-cascader-panel{
+    height: 210px;
+  }
+
+.el-scrollbar__wrap{
+    overflow-x: hidden;
+}
