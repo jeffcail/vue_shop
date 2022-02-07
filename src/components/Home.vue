@@ -3,7 +3,8 @@
             <!-- 头部区域 -->
             <el-header>
                 <div>
-                    <img src="../assets/vue-shop.png" alt="" width="50px" height="50px">
+                    <!-- <img src="../assets/vue-shop.png" alt="" width="50px" height="50px"> -->
+                    <span>CAI</span>
                     <span>VUE-SHOP电商后台管理系统</span>
                 </div>
                 <el-button type="info" @click="logout">退出</el-button>
