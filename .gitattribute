@@ -1,0 +1,5 @@
+*.js linguist-language=JavaScrip, node
+*.css linguist-language=CSS
+*.html linguist-language=HTML
+*.vue linguist-language=Vue2
+
