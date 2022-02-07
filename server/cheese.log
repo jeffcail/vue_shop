@@ -99,3 +99,7 @@
 [2022-02-06T07:43:12.999] [DEBUG] cheese - null
 [2022-02-06T07:43:20.804] [DEBUG] cheese - null
 [2022-02-06T07:43:24.782] [DEBUG] cheese - null
+[2022-02-07T16:52:59.214] [DEBUG] cheese - login => username:admin,password:123456
+[2022-02-07T16:52:59.215] [DEBUG] cheese - admin
+[2022-02-07T16:52:59.230] [DEBUG] cheese - null
+[2022-02-07T16:52:59.230] [DEBUG] cheese - null
