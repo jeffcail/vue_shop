@@ -1,10 +1,9 @@
 # vue_shop
-
-## Project setup
-```angular2html
-
+### Import db
 ```Import db
 import server/db/my.db
+```
+## Project setup
 ```
 npm install
 ```
