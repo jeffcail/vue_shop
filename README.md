@@ -11,6 +11,9 @@ npm install
 ### Start node server
 ```
 cd server
+
+npm install 
+
 node ./app.js
 ```
 
