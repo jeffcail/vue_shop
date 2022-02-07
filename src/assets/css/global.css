@@ -26,3 +26,11 @@ html, body, #app{
 .el-scrollbar__wrap{
     overflow-x: hidden;
 }
+
+.el-steps {
+    margin: 15px 0;
+}
+
+.quill-editor {
+    min-height: 300px;
+}
