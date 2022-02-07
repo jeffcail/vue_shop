@@ -52,5 +52,8 @@ admin/123456
 ### Order
 ![img_7.png](img_7.png)
 
+### Echarts
+![img_8.png](img_8.png)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
