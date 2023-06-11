@@ -17,3 +17,9 @@
 - `services` 服务层，业务逻辑代码在这一层编写，通过不同的接口获取的数据转换成统一的前端所需要的数据
 - `app.js` 主项目入口文件
 - `package.json` 项目配置文件
+
+### npm 
+npm install express-generator -D
+
+### node app.js
+
